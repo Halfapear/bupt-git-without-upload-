@@ -100,3 +100,5 @@ https://learngitbranching.js.org/?locale=zh_CN
 
 三是，说实话有点难复习。。如果因为不熟练忘记了还要去一点点翻视频
 不然就得问G老师了。。
+
+commit 2rd
